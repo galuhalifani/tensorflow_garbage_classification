@@ -1,0 +1,1 @@
+{"BATCH_SIZE": 32, "img_height": 224, "img_width": 224, "IMG_SIZE": [224, 224], "class_names": ["cardboard", "glass", "metal", "paper", "plastic", "trash"]}

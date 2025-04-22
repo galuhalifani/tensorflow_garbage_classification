@@ -1,0 +1,14 @@
+streamlit
+pandas
+seaborn
+matplotlib
+plotly
+pillow
+numpy
+scikit-learn==1.6.1
+pillow
+tensorflow==2.19.0
+opencv-python
+kagglehub
+imagehash
+jmd_imagescraper

@@ -1,0 +1,2 @@
+URL deployment: https://huggingface.co/spaces/galuhalifani/recycling_classification
+URL dataset: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
